@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Style Demo</string>
+    <string name="testWord">Cool Style Text</string>
+    <string name="testNum">123456</string>
+</resources>

@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             compCount++;
             progressBar.setProgress(0);
             curProgress = 0;
-            textView.setText(Integer.toString(compCount));
+            textView.setText("" + compCount);
         }
     }
 

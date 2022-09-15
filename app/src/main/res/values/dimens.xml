@@ -11,4 +11,12 @@
     <dimen name="numViewFontSize">26sp</dimen>
     <dimen name="sliderWidth">100dp</dimen>
     <dimen name="sliderHeight">70dp</dimen>
+    <dimen name="margRight">20dp</dimen>
+    <dimen name="margLeft">20dp</dimen>
+    <dimen name="margTop">10dp</dimen>
+    <dimen name="margBottom">20dp</dimen>
+    <dimen name="padTop">5dp</dimen>
+    <dimen name="padBottom">5dp</dimen>
+    <dimen name="padLeft">5dp</dimen>
+    <dimen name="padRight">5dp</dimen>
 </resources>

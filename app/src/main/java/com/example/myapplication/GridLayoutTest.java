@@ -2,6 +2,7 @@ package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 public class GridLayoutTest extends AppCompatActivity {
@@ -10,5 +11,6 @@ public class GridLayoutTest extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_grid_layout_test);
+        Intent intent = getIntent();
     }
 }

@@ -2,6 +2,7 @@ package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ProgressBar;
@@ -32,6 +33,12 @@ public class MainActivity extends AppCompatActivity {
             curProgress = 0;
             textView.setText("" + compCount);
         }
+    }
+
+    public void switchScreen(View view){
+        Intent intent = new Intent(this, GridLayoutTest.class);
+        startActivity(intent);
+        overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
     }
 
 

@@ -24,13 +24,15 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:gravity="bottom"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="0"
-            app:layout_row="0" />
+            app:layout_row="0"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button14"
@@ -40,13 +42,15 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:gravity="bottom"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="1"
-            app:layout_row="0" />
+            app:layout_row="0"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button15"
@@ -56,12 +60,14 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="0"
-            app:layout_row="1" />
+            app:layout_row="1"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button16"
@@ -71,12 +77,14 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="1"
-            app:layout_row="1" />
+            app:layout_row="1"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button17"
@@ -86,13 +94,15 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:gravity="bottom"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="2"
-            app:layout_row="0" />
+            app:layout_row="0"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button18"
@@ -102,12 +112,14 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="2"
-            app:layout_row="1" />
+            app:layout_row="1"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button19"
@@ -117,13 +129,15 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:gravity="top"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="0"
-            app:layout_row="2" />
+            app:layout_row="2"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button20"
@@ -133,13 +147,15 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:gravity="top"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="1"
-            app:layout_row="2" />
+            app:layout_row="2"
+            app:rippleColor="@color/secondaryColor" />
 
         <Button
             android:id="@+id/button21"
@@ -149,13 +165,15 @@
             android:layout_marginTop="@dimen/margTop"
             android:layout_marginRight="15dp"
             android:layout_marginBottom="@dimen/margBottom"
+            android:backgroundTint="@color/secondaryDarkColor"
             android:gravity="top"
             android:scaleX="1.25"
             android:scaleY="1.25"
             android:text="Button"
             android:textSize="10sp"
             app:layout_column="2"
-            app:layout_row="2" />
+            app:layout_row="2"
+            app:rippleColor="@color/secondaryColor" />
     </androidx.gridlayout.widget.GridLayout>
 
     <TextView

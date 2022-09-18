@@ -3,4 +3,5 @@
     <string name="testWord">0</string>
     <string name="testNum">123456</string>
     <string name="editTextHint">Name</string>
+    <string name="buttonPress">Press Me</string>
 </resources>
